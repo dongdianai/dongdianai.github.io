@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dongdianai.github.io/sitemap.xml
+Sitemap: https://dongdian.ai/sitemap.xml

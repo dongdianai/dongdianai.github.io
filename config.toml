@@ -76,7 +76,7 @@ theme = "DoIt"
   #  日期格式
   dateFormat = "2006-01-02"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/logo.png"]
+  images = [""]
   #  开启 PWA 支持
   enablePWA = false
   # [试验性功能] 缓存图床图片，详情请见：https://github.com/HEIGE-PCloud/DoIt/pull/860#issue-1574342372
@@ -141,7 +141,7 @@ theme = "DoIt"
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = ""
+      logo = "/images/dongdianai-logo.png"
       # 标题名称
       name = "懂点AI"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -208,7 +208,7 @@ theme = "DoIt"
       # 主页显示头像的 URL
       # 将你的头像文件放置于 static 或者 assets 目录下
       # 文件路径是相对于 static 或者 assets 目录的
-      avatarURL = "/images/dongdianai-logo.png"
+      avatarURL = "/images/dongdianai-avatar.png"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题

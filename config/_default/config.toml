@@ -1,4 +1,4 @@
-baseurl = "https://dongdian.ai/"
+baseurl = "https://dongdianai.github.io/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

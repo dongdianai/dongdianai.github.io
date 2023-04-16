@@ -2,13 +2,13 @@ $global-link-hover-color: #002FFF;
 $single-link-color: #002FFF;
 $pagination-link-color: #002FFF;
 $friend-link-color: #002FFF;
-@font-face {
-    font-family: 'SmileySans-Oblique';
-    font-style: normal;
-    src: local('SmileySans-Oblique'),
-         url('/fonts/SmileySans-Oblique.otf.woff2') format('woff2'), 
-         url('/fonts/SmileySans-Oblique.ttf.woff2') format('woff2'),
-         url('/fonts/SmileySans-Oblique.ttf') format('truetype'),
-         url('/fonts/SmileySans-Oblique.otf') format('opentype'),
-  }
-$header-title-font-family: "SmileySans-Oblique", $global-font-family;
+// @font-face {
+//     font-family: 'SmileySans-Oblique';
+//     font-style: normal;
+//     src: local('SmileySans-Oblique'),
+//          url('/fonts/SmileySans-Oblique.otf.woff2') format('woff2'), 
+//          url('/fonts/SmileySans-Oblique.ttf.woff2') format('woff2'),
+//          url('/fonts/SmileySans-Oblique.ttf') format('truetype'),
+//          url('/fonts/SmileySans-Oblique.otf') format('opentype'),
+//   }
+// $header-title-font-family: "SmileySans-Oblique", $global-font-family;

@@ -143,13 +143,13 @@ theme = "DoIt"
       # LOGO 的 URL
       logo = "/images/dongdianai-logo.png"
       # 标题名称
-      name = "懂点AI"
+      name = ""
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
       #  是否为标题显示打字机动画
-      typeit = true
+      typeit = false
 
   # 页面底部信息配置
   [params.footer]
